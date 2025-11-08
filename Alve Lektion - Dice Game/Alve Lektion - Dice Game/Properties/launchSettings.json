@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Alve Lektion - Dice Game": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

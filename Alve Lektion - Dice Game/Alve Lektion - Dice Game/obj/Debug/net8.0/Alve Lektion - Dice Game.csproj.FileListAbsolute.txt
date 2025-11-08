@@ -1,0 +1,15 @@
+C:\Users\nicolas.yauriszatyb\source\repos\Alve Lektion - Dice Game\Alve Lektion - Dice Game\obj\Debug\net8.0\Alve Lektion - Dice Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.yauriszatyb\source\repos\Alve Lektion - Dice Game\Alve Lektion - Dice Game\obj\Debug\net8.0\Alve Lektion - Dice Game.AssemblyInfoInputs.cache
+C:\Users\nicolas.yauriszatyb\source\repos\Alve Lektion - Dice Game\Alve Lektion - Dice Game\obj\Debug\net8.0\Alve Lektion - Dice Game.AssemblyInfo.cs
+C:\Users\nicolas.yauriszatyb\source\repos\Alve Lektion - Dice Game\Alve Lektion - Dice Game\obj\Debug\net8.0\Alve Lektion - Dice Game.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.yauriszatyb\source\repos\Alve Lektion - Dice Game\Alve Lektion - Dice Game\bin\Debug\net8.0\Alve Lektion - Dice Game.exe
+C:\Users\nicolas.yauriszatyb\source\repos\Alve Lektion - Dice Game\Alve Lektion - Dice Game\bin\Debug\net8.0\Alve Lektion - Dice Game.deps.json
+C:\Users\nicolas.yauriszatyb\source\repos\Alve Lektion - Dice Game\Alve Lektion - Dice Game\bin\Debug\net8.0\Alve Lektion - Dice Game.runtimeconfig.json
+C:\Users\nicolas.yauriszatyb\source\repos\Alve Lektion - Dice Game\Alve Lektion - Dice Game\bin\Debug\net8.0\Alve Lektion - Dice Game.dll
+C:\Users\nicolas.yauriszatyb\source\repos\Alve Lektion - Dice Game\Alve Lektion - Dice Game\bin\Debug\net8.0\Alve Lektion - Dice Game.pdb
+C:\Users\nicolas.yauriszatyb\source\repos\Alve Lektion - Dice Game\Alve Lektion - Dice Game\obj\Debug\net8.0\Alve Lektion - Dice Game.dll
+C:\Users\nicolas.yauriszatyb\source\repos\Alve Lektion - Dice Game\Alve Lektion - Dice Game\obj\Debug\net8.0\refint\Alve Lektion - Dice Game.dll
+C:\Users\nicolas.yauriszatyb\source\repos\Alve Lektion - Dice Game\Alve Lektion - Dice Game\obj\Debug\net8.0\Alve Lektion - Dice Game.pdb
+C:\Users\nicolas.yauriszatyb\source\repos\Alve Lektion - Dice Game\Alve Lektion - Dice Game\obj\Debug\net8.0\Alve Lektion - Dice Game.genruntimeconfig.cache
+C:\Users\nicolas.yauriszatyb\source\repos\Alve Lektion - Dice Game\Alve Lektion - Dice Game\obj\Debug\net8.0\ref\Alve Lektion - Dice Game.dll
+C:\Users\nicolas.yauriszatyb\source\repos\Alve Lektion - Dice Game\Alve Lektion - Dice Game\obj\Debug\net8.0\Alve Lektion - Dice Game.sourcelink.json

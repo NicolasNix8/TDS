@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v5uz6KrD0xQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicolas.yauriszatyb\\source\\repos\\Alve Lektion - Dice Game\\Alve Lektion - Dice Game\\Alve Lektion - Dice Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicolas.yauriszatyb\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
